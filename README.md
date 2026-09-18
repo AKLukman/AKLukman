@@ -1,17 +1,19 @@
 # 💫 About Me:
 # 👋 Hi, I'm a Software Engineer
 
-I'm a Software Engineer focused on building **scalable full-stack applications, automation tools, and cloud-based systems**.
+I'm a Software Engineer focused on building **scalable full-stack applications, agentic AI systems, automation tools, and cloud-based solutions**.
 
-🎓 **MSc in Computer Science (Software Engineering), UK**
+🎓 **MSc Computer Science (Software Engineering) — Staffordshire University, UK**
 
 ### 💻 About Me
 
-- 🚀 Strong focus on **full-stack development and system design**
-- 🔧 Experienced in building **REST APIs and authentication systems**
-- 🤖 Passionate about **automation and workflow optimization**
-- ☁️ Interested in **cloud infrastructure and scalable systems**
-- 🧩 Enjoy building clean, maintainable, and production-ready software
+- 🚀 Focused on **full-stack development, system design, and scalable architectures**
+- 🤖 Building and exploring **Agentic AI applications and intelligent automation workflows**
+- 🔧 Experienced in developing **REST APIs, authentication systems, and backend services**
+- 🔐 Experienced with **JWT, Better Auth, and modern authentication & authorization**
+- ✅ Strong focus on **type-safe development and schema validation with Zod**
+- ☁️ Experienced with **Firebase, AWS, and cloud-based application development**
+- 🧩 Passionate about building clean, maintainable, and production-ready software
 
 ### 🛠️ Tech Stack
 
@@ -27,29 +29,49 @@ I'm a Software Engineer focused on building **scalable full-stack applications, 
 - Prisma
 - Mongoose
 
+**Authentication & Validation**
+- JSON Web Token (JWT)
+- Better Auth
+- Zod
+- Authentication & Authorization
+- Schema & API Validation
+
 **Databases**
 - MongoDB
 - PostgreSQL
+- Firebase
+
+**AI & Automation**
+- Agentic AI
+- AI-powered workflows
+- Playwright
 
 **Cloud & DevOps**
-- Docker
 - AWS
-
-**Automation**
-- Playwright
+- Firebase
+- Docker
 
 ### 📌 What I Build
 
-- Full-stack web applications
-- RESTful APIs
-- Authentication & authorization systems
-- Automation tools and workflows
-- Cloud-based applications
-- Scalable backend systems
+- 🌐 Full-stack web applications
+- 🤖 Agentic AI applications and autonomous workflows
+- 🔌 RESTful APIs
+- 🔐 Secure authentication & authorization systems
+- ✅ Type-safe APIs and robust data validation
+- ⚙️ Automation tools and workflow systems
+- ☁️ Cloud-based applications
+- 📦 Scalable backend services
+- 🏗️ Production-ready software architectures
+
+### 🎓 Education
+
+**Staffordshire University, UK**  
+**MSc Computer Science (Software Engineering)**
 
 ---
 
-💡 **Always learning, building, and improving.**
+💡 **Always learning, building, and exploring new technologies.**
+
 
 
 # 💻 Tech Stack:
