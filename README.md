@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer focused on building scalable full-stack applications, automation tools, and cloud-based systems.<br>MSc in Computer Science (Software Engineering), UK<br>Strong focus on full-stack development and system design<br>Experienced in building REST APIs, authentication systems, and automation workflows<br>Solved 100+ problems on Codeforces & HackerRank.<br><br>🛠 Tech Stack<br><br>Frontend<br>React.js, Next.js, Tailwind CSS, Redux Toolkit<br><br>Backend<br>Node.js, Express.js, Prisma, Mongoose<br><br>Databases<br>MongoDB, PostgreSQL<br><br>Cloud & DevOps<br>Docker, AWS<br><br>Automation<br>Playwright
+Software Engineer focused on building scalable full-stack applications, automation tools, and cloud-based systems.<br>MSc in Computer Science (Software Engineering), UK<br>Strong focus on full-stack development and system design<br>Experienced in building REST APIs, authentication systems, and automation workflows<br><br>🛠 Tech Stack<br><br>Frontend<br>React.js, Next.js, Tailwind CSS, Redux Toolkit<br><br>Backend<br>Node.js, Express.js, Prisma, Mongoose<br><br>Databases<br>MongoDB, PostgreSQL<br><br>Cloud & DevOps<br>Docker, AWS<br><br>Automation<br>Playwright
 
 
 # 💻 Tech Stack:
