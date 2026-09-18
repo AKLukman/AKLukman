@@ -1,7 +1,7 @@
 # 💫 About Me:
 # 👋 Hi, I'm a Software Engineer
 
-I'm a Software Engineer focused on building **scalable full-stack applications, agentic AI systems, automation tools, and cloud-based solutions**.
+I build **scalable full-stack applications, agentic AI systems, automation tools, and cloud-based solutions**.
 
 🎓 **MSc Computer Science (Software Engineering) — Staffordshire University, UK**
 
