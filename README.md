@@ -1,5 +1,55 @@
 # 💫 About Me:
-Software Engineer focused on building scalable full-stack applications, automation tools, and cloud-based systems.<br>MSc in Computer Science (Software Engineering), UK<br>Strong focus on full-stack development and system design<br>Experienced in building REST APIs, authentication systems, and automation workflows<br><br>🛠 Tech Stack<br><br>Frontend<br>React.js, Next.js, Tailwind CSS, Redux Toolkit<br><br>Backend<br>Node.js, Express.js, Prisma, Mongoose<br><br>Databases<br>MongoDB, PostgreSQL<br><br>Cloud & DevOps<br>Docker, AWS<br><br>Automation<br>Playwright
+# 👋 Hi, I'm a Software Engineer
+
+I'm a Software Engineer focused on building **scalable full-stack applications, automation tools, and cloud-based systems**.
+
+🎓 **MSc in Computer Science (Software Engineering), UK**
+
+### 💻 About Me
+
+- 🚀 Strong focus on **full-stack development and system design**
+- 🔧 Experienced in building **REST APIs and authentication systems**
+- 🤖 Passionate about **automation and workflow optimization**
+- ☁️ Interested in **cloud infrastructure and scalable systems**
+- 🧩 Enjoy building clean, maintainable, and production-ready software
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- Next.js
+- Tailwind CSS
+- Redux Toolkit
+
+**Backend**
+- Node.js
+- Express.js
+- Prisma
+- Mongoose
+
+**Databases**
+- MongoDB
+- PostgreSQL
+
+**Cloud & DevOps**
+- Docker
+- AWS
+
+**Automation**
+- Playwright
+
+### 📌 What I Build
+
+- Full-stack web applications
+- RESTful APIs
+- Authentication & authorization systems
+- Automation tools and workflows
+- Cloud-based applications
+- Scalable backend systems
+
+---
+
+💡 **Always learning, building, and improving.**
 
 
 # 💻 Tech Stack:
